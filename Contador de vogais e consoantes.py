@@ -1,0 +1,1 @@
+'''Escreva um programa que peça ao usuário para digitar uma palavra. Em seguida, conte o número de vogais e consoantes na palavra e exiba o resultado.'''
